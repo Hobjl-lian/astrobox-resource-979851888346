@@ -5,11 +5,11 @@
     "name": "极光效应",
     "description": "以展示壁纸为主，界面尽量不遮挡画面，侧边栏做了收窄处理但保留跳转功能，共 12 张壁纸。",
     "preview": [
-      "media/cover.png",
+      "media/cover.jpg",
       "media/preview.png"
     ],
     "icon": "media/icon.png",
-    "cover": "media/cover.png",
+    "cover": "media/cover.jpg",
     "author": [
       {
         "name": "Hobjl",
